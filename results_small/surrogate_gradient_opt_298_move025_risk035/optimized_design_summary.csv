@@ -1,0 +1,2 @@
+source_design_id,design_name,start_pred_mean_energy,start_pred_std_energy,start_pred_robust_score,opt_pred_mean_energy,opt_pred_std_energy,opt_pred_robust_score,pred_mean_gain,pred_robust_gain,best_internal_step,preprojection_vol_ratio,area_min,area_max
+298,surrogate_opt_from_298,1.9011799097061157,0.2120887190103531,1.826948881149292,2.193251371383667,0.14616452157497406,2.1420938968658447,0.29207146167755127,0.31514501571655273,500,1.0001769065856934,0.25,2.999443292617798

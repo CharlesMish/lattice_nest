@@ -1,0 +1,33 @@
+# Python / environments
+__pycache__/
+*.pyc
+.venv/
+.env
+.ipynb_checkpoints/
+
+# Large generated outputs / raw artifacts
+outputs/
+runs/
+artifacts/
+*.npz
+*.pt
+*.pth
+*.pkl
+*.joblib
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# Logs
+*.log
+
+# Local/editor
+.DS_Store
+.vscode/
+.idea/
+
+# Temporary files
+_tmp*
+tmp/
+temp/
